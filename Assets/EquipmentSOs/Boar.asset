@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c261e2a049c66864e89ec915d860fc9e, type: 3}
+  m_Name: Boar
+  m_EditorClassIdentifier: 
+  itemName: Boar
+  attack: 2
+  defense: 0
+  agility: 0
+  intelligence: 0
+  itemSprite: {fileID: 21300000, guid: d139b48a372802a42b221ad4a1f80911, type: 3}
